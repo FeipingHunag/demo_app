@@ -7,7 +7,7 @@ gem 'rails', '3.0.7'
 
 gem 'sqlite3'
 
-# Use unicorn as the web server
+# Use unicorn as te web server
 # gem 'unicorn'
 
 # Deploy with Capistrano
